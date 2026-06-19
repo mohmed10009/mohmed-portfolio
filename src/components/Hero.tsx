@@ -163,7 +163,7 @@ style={{ animationDelay: '4s' }}
           {/* Floating stats */}
           <div className="absolute -bottom-4 -left-4 bg-white rounded-2xl shadow-xl p-3 border border-gray-100">
             <div className="text-center">
-              <div className="text-2xl font-bold text-blue-600">5+</div>
+              <div className="text-2xl font-bold text-blue-600">3+</div>
               <div className="text-xs text-gray-500">
                 {t('Years Exp.', 'سنوات خبرة')}
               </div>
