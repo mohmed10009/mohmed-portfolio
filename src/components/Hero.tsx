@@ -134,7 +134,7 @@ return ( <section id="home" className="relative min-h-screen hero-gradient overf
     <ChevronDown size={20} />
   </a>
 </section>
-```
+
 
 );
 }
