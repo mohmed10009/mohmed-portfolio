@@ -32,7 +32,7 @@ export default function Hero() {
               {t('Healthcare Integration Engineer', 'مهندس تكامل الرعاية الصحية')}
             </div>
 
-            <h1 className={`text-4xl sm:text-5xl lg:text-6xl font-bold leading-tight ${isRTL ? 'font-ar' : ''}`}>
+            <F className={`text-4xl sm:text-5xl lg:text-6xl font-bold leading-tight ${isRTL ? 'font-ar' : ''}`}>
               {t('Mohmed', 'محمد')}{' '}
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-300 to-blue-300">
                 {t('Abdalazim', 'عبد العظيم')}
@@ -116,7 +116,7 @@ export default function Hero() {
               <div className="absolute -top-4 -right-4 bg-white rounded-2xl shadow-xl p-3 border border-gray-100">
                 <div className="text-center">
                   <div className="text-2xl font-bold text-cyan-600">7+</div>
-                  <div className="text-xs text-gray-500">{t('Health Clusters', 'عنقود صحي')}</div>
+                  <div className="text-xs text-gray-500">{t('Health Clusters', 'تجمع صحي')}</div>
                 </div>
               </div>
             </div>
